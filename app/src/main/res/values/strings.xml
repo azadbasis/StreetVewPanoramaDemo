@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">StreetVewPanoromaBasicDemo</string>
+    <string name="navigate_to_another_panorama">navigation to anther panorama</string>
+    <string name="pan_camera">pan camera</string>
+    <string name="tap_screen">tap screen</string>
+    <string name="long_press_screen">long press screen</string>
+    <string name="request_position">Request Option</string>
+    <string name="walk_panorama">walk panaroma</string>
+    <string name="left_arrow">left arrow</string>
+    <string name="up_arrow">up arrow</string>
+    <string name="down_arrow">down arrow</string>
+    <string name="right_arrow">right arrow</string>
+    <string name="zoom_in">zoom in</string>
+    <string name="zoom_out">zoom out</string>
+    <string name="duration">duration</string>
+    <string name="go_to_sydney">Go to sedney</string>
+    <string name="go_to_san_fran">Go to sn francisco</string>
+    <string name="go_to_santorini">Go to santarino</string>
+    <string name="go_to_invalid">Go to invalid</string>
+    <string name="panorama_not_ready">Panorama not ready</string>
+    <string name="streetnames">Street Names</string>
+    <string name="navigation">Navigation</string>
+    <string name="zoom_gestures">Zoom Gesture</string>
+    <string name="panning">Panning</string>
+    <string name="outdoor_only">Outdoor only</string>
+    <string name="map_not_ready">Map not ready</string>
+</resources>

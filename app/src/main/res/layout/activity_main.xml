@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:orientation="vertical">
+
+<Button
+
+    android:text="Basic StreetView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAllCaps="false"
+    android:onClick="launchBasicStreetView"/>
+
+
+    <Button android:text="Event Demo StreetView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAllCaps="false"
+    android:onClick="launchEventDamo"/>
+
+    <Button android:text="Navigation StreetView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:onClick="launchNavigationStreetView"/>
+
+    <Button android:text="Options StreetView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:onClick="launchOptionStreetView"/>
+
+    <Button android:text="Without Fragment StreetView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:onClick="launchStreetViewWithoutFragment"/>
+
+</LinearLayout>
